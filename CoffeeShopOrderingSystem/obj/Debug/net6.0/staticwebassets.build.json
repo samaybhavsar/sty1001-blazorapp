@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZTuXBcKklOnM8Wsrkab7c2lMVhSeoHU9GjQQctPws4E=",
+  "Hash": "u1OP7mS02cNcVNXqj6X9tsCH2qwTQUFjScdWKdf2FkY=",
   "Source": "CoffeeShopOrderingSystem",
   "BasePath": "_content/CoffeeShopOrderingSystem",
   "Mode": "Default",
@@ -272,6 +272,40 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
+      "Identity": "/Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/wwwroot/images/bagel.jpg",
+      "SourceId": "CoffeeShopOrderingSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/wwwroot/",
+      "BasePath": "_content/CoffeeShopOrderingSystem",
+      "RelativePath": "images/bagel.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/bagel.jpg"
+    },
+    {
+      "Identity": "/Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/wwwroot/images/coffee.jpg",
+      "SourceId": "CoffeeShopOrderingSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/wwwroot/",
+      "BasePath": "_content/CoffeeShopOrderingSystem",
+      "RelativePath": "images/coffee.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/coffee.jpg"
+    },
+    {
       "Identity": "/Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/wwwroot/images/coffeeshop.jpg",
       "SourceId": "CoffeeShopOrderingSystem",
       "SourceType": "Discovered",
@@ -287,6 +321,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/coffeeshop.jpg"
+    },
+    {
+      "Identity": "/Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/wwwroot/images/hashbrown.jpg",
+      "SourceId": "CoffeeShopOrderingSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/wwwroot/",
+      "BasePath": "_content/CoffeeShopOrderingSystem",
+      "RelativePath": "images/hashbrown.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/hashbrown.jpg"
+    },
+    {
+      "Identity": "/Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/wwwroot/images/tea.jpg",
+      "SourceId": "CoffeeShopOrderingSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/wwwroot/",
+      "BasePath": "_content/CoffeeShopOrderingSystem",
+      "RelativePath": "images/tea.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/tea.jpg"
     }
   ]
 }

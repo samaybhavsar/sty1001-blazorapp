@@ -9,6 +9,10 @@ h1 {
     color: #0cc2fa;
 }
 
+h3 {
+    text-align:center;
+    color: #888888;
+}
 table {
     width: 100%;
 }
