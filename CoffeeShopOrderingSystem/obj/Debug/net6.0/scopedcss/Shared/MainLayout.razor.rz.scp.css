@@ -1,3 +1,5 @@
+
+
 .page[b-ku5nty1qo8] {
     position: relative;
     display: flex;
@@ -12,18 +14,23 @@ main[b-ku5nty1qo8] {
     background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
 }
 
-.top-row[b-ku5nty1qo8] {
-    background-color: #f7f7f7;
-    border-bottom: 1px solid #d6d5d5;
-    justify-content: safe center;
-    height: 3.5rem;
-    display: flex;
-    align-items: center;
+.cart[b-ku5nty1qo8] {
+    font-size: 26px;
+    color: #eeeeee;
+    line-height:2;
 }
+.top-row[b-ku5nty1qo8] {
+    background-color: #4d7cff;
+    height: 3.5rem;
+}
+
+    .top-row a[b-ku5nty1qo8] {
+        text-decoration:none;
+    }
 
     .top-row[b-ku5nty1qo8]  a, .top-row .btn-link[b-ku5nty1qo8] {
         white-space: nowrap;
-        margin-left: 1.5rem;
+        line-height:3;  
     }
 
     .top-row a:first-child[b-ku5nty1qo8] {

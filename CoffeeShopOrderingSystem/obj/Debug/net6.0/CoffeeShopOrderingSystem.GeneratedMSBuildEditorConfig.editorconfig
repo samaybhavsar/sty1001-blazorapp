@@ -31,10 +31,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/Pages/Menu.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTWVudS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [/Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -42,6 +38,18 @@ build_metadata.AdditionalFiles.CssScope =
 [/Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/Pages/Cart.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-uyujv3wjb1
+
+[/Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/Pages/ItemDetail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSXRlbURldGFpbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-gth9m9csem
+
+[/Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/Pages/Menu.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-jpkc0hdysz
 
 [/Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=

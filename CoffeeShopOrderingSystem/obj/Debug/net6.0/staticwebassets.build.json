@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "u1OP7mS02cNcVNXqj6X9tsCH2qwTQUFjScdWKdf2FkY=",
+  "Hash": "8k6yJ4zBhrm7xmGARkGD2M15+zwvzcPLkT7k8RPttcw=",
   "Source": "CoffeeShopOrderingSystem",
   "BasePath": "_content/CoffeeShopOrderingSystem",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/obj/Debug/net6.0/scopedcss/projectbundle/CoffeeShopOrderingSystem.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/wwwroot/.DS_Store",
+      "SourceId": "CoffeeShopOrderingSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/wwwroot/",
+      "BasePath": "_content/CoffeeShopOrderingSystem",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
     },
     {
       "Identity": "/Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/wwwroot/css/bootstrap/bootstrap.min.css",

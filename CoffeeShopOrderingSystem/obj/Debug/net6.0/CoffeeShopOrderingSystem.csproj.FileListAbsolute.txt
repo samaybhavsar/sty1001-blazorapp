@@ -16,6 +16,7 @@
 /Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/obj/Debug/net6.0/CoffeeShopOrderingSystem.RazorAssemblyInfo.cs
 /Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/obj/Debug/net6.0/staticwebassets.build.json
 /Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/obj/Debug/net6.0/staticwebassets.development.json
+/Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/obj/Debug/net6.0/scopedcss/Pages/Menu.razor.rz.scp.css
 /Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
 /Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/obj/Debug/net6.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
 /Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/obj/Debug/net6.0/scopedcss/bundle/CoffeeShopOrderingSystem.styles.css
@@ -25,3 +26,5 @@
 /Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/obj/Debug/net6.0/CoffeeShopOrderingSystem.pdb
 /Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/obj/Debug/net6.0/CoffeeShopOrderingSystem.genruntimeconfig.cache
 /Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/obj/Debug/net6.0/ref/CoffeeShopOrderingSystem.dll
+/Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/obj/Debug/net6.0/scopedcss/Pages/ItemDetail.razor.rz.scp.css
+/Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/obj/Debug/net6.0/scopedcss/Pages/Cart.razor.rz.scp.css

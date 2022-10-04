@@ -1,4 +1,33 @@
+/* _content/CoffeeShopOrderingSystem/Pages/Cart.razor.rz.scp.css */
+.cart-container a[b-uyujv3wjb1] {
+    color: #222222;
+}
+
+.cart-container a:hover[b-uyujv3wjb1] {
+    color: #000000;
+}
+
+.cart-container .row[b-uyujv3wjb1] {
+    border: 1px solid #999999;
+    padding:10px;
+}
+/* _content/CoffeeShopOrderingSystem/Pages/ItemDetail.razor.rz.scp.css */
+.price[b-gth9m9csem] {
+    font-weight: bold;
+    color: red;
+}
+/* _content/CoffeeShopOrderingSystem/Pages/Menu.razor.rz.scp.css */
+.item-title[b-jpkc0hdysz] {
+    font-weight: bold;
+}
+
+.price[b-jpkc0hdysz] {
+    font-weight: bold;
+    color: red;
+}
 /* _content/CoffeeShopOrderingSystem/Shared/MainLayout.razor.rz.scp.css */
+
+
 .page[b-ku5nty1qo8] {
     position: relative;
     display: flex;
@@ -13,18 +42,23 @@ main[b-ku5nty1qo8] {
     background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
 }
 
-.top-row[b-ku5nty1qo8] {
-    background-color: #f7f7f7;
-    border-bottom: 1px solid #d6d5d5;
-    justify-content: safe center;
-    height: 3.5rem;
-    display: flex;
-    align-items: center;
+.cart[b-ku5nty1qo8] {
+    font-size: 26px;
+    color: #eeeeee;
+    line-height:2;
 }
+.top-row[b-ku5nty1qo8] {
+    background-color: #4d7cff;
+    height: 3.5rem;
+}
+
+    .top-row a[b-ku5nty1qo8] {
+        text-decoration:none;
+    }
 
     .top-row[b-ku5nty1qo8]  a, .top-row .btn-link[b-ku5nty1qo8] {
         white-space: nowrap;
-        margin-left: 1.5rem;
+        line-height:3;  
     }
 
     .top-row a:first-child[b-ku5nty1qo8] {
@@ -72,12 +106,13 @@ main[b-ku5nty1qo8] {
 
 /* _content/CoffeeShopOrderingSystem/Shared/NavMenu.razor.rz.scp.css */
 .navbar-toggler[b-2qndkck0gh] {
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: #4d7cff;
 }
 
 .top-row[b-2qndkck0gh] {
     height: 3.5rem;
-    background-color: rgba(0,0,0,0.4);
+    background-color: #4d7cff;
+    color: #efefef;
 }
 
 .navbar-brand[b-2qndkck0gh] {
@@ -105,7 +140,7 @@ main[b-ku5nty1qo8] {
     }
 
     .nav-item[b-2qndkck0gh]  a {
-        color: #d7d7d7;
+        color: #efefef;
         border-radius: 4px;
         height: 3rem;
         display: flex;
@@ -114,12 +149,12 @@ main[b-ku5nty1qo8] {
     }
 
 .nav-item[b-2qndkck0gh]  a.active {
-    background-color: rgba(255,255,255,0.25);
+    background-color: #ffffff;
     color: white;
 }
 
 .nav-item[b-2qndkck0gh]  a:hover {
-    background-color: rgba(255,255,255,0.1);
+    background-color: #ffffff;
     color: white;
 }
 

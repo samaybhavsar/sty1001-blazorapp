@@ -1,4 +1,51 @@
-﻿<Properties StartupConfiguration="{78A7D713-3E48-459C-AF83-1032870B83CB}|Default">
-  <MonoDevelop.Ide.ItemProperties.CoffeeShopOrderingSystem FirstBuild="True" />
+﻿<Properties StartupConfiguration="{78A7D713-3E48-459C-AF83-1032870B83CB}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoffeeShopOrderingSystem/Index.cshtml">
+    <Files>
+      <File FileName="CoffeeShopOrderingSystem/Program.cs" Line="1" Column="1" />
+      <File FileName="CoffeeShopOrderingSystem/App.razor" Line="1" Column="1" />
+      <File FileName="CoffeeShopOrderingSystem/Pages/Index.razor" Line="9" Column="1" />
+      <File FileName="CoffeeShopOrderingSystem/Pages/FetchData.razor" Line="1" Column="1" />
+      <File FileName="CoffeeShopOrderingSystem/Pages/_Host.cshtml" Line="1" Column="1" />
+      <File FileName="CoffeeShopOrderingSystem/Pages/Counter.razor" Line="3" Column="19" />
+      <File FileName="CoffeeShopOrderingSystem/Pages/Menu.razor" Line="28" Column="1" />
+      <File FileName="CoffeeShopOrderingSystem/Shared/NavMenu.razor" Line="25" Column="23" />
+      <File FileName="CoffeeShopOrderingSystem/wwwroot/css/site.css" Line="14" Column="19" />
+      <File FileName="CoffeeShopOrderingSystem/Pages/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="CoffeeShopOrderingSystem/Index.cshtml" Line="5" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CoffeeShopOrderingSystem" expanded="True">
+            <Node name="CoffeeShopOrderingSystem" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Error.cshtml" expanded="True" />
+              </Node>
+              <Node name="Shared" expanded="True">
+                <Node name="MainLayout.razor" expanded="True" />
+                <Node name="NavMenu.razor" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True">
+                  <Node name="bootstrap" expanded="True" />
+                  <Node name="open-iconic" expanded="True" />
+                </Node>
+                <Node name="images" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="Index.cshtml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CoffeeShopOrderingSystem PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MultiItemStartupConfigurations />
 </Properties>
