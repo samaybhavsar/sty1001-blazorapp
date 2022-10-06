@@ -1,0 +1,40 @@
+﻿@page "/add-item"
+
+@inherits AddItemBase.AddItemBase
+
+<h3>Add Item to the Menu</h3>
+
+<div class="container" style="width:50%">
+    <div class="row g-3">
+        <div class="col-md-6">
+            <label class="form-label">Item Name:</label>
+            <input type="text" name="itemName" class="form-control" @bind=Item.ItemName/>
+        </div>
+    </div>
+    <div class="row g-3">
+        <div class="col-md-6">
+            <label class="form-label">
+                Item Price:
+            </label>
+            <input type="text" name="itemPrice" class="form-control" @bind=Item.ItemPrice/>
+        </div>
+    </div>
+    <div class="row g-3">
+        <div class="col-md-6">
+            <label class="form-label">Item Calories:</label>
+            <input type="text" name="itemCalories" class="form-control" @bind=Item.ItemCalories/>
+        </div>
+    </div>
+    <div class="row g-3">
+        <div class="col-md-6">
+            <label class="form-label">Item Description</label>
+            <input type="text" name="description" class="form-control" @bind=Item.ItemDescription />
+        </div>
+    </div>
+    <div class="row g-3">
+        <div class="col-md-6">
+            <button type="button" class="btn btn-primary" @onclick="() => SaveItem()">Add</button>
+        </div>
+    </div>
+
+</div>
