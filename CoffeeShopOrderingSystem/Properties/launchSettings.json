@@ -11,7 +11,7 @@
     "CoffeeShopOrderingSystem": {
       "commandName": "Project",
       "launchBrowser": true,
-      "applicationUrl": "https://localhost:7202;http://localhost:5201",
+      "applicationUrl": "http://localhost:57619",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

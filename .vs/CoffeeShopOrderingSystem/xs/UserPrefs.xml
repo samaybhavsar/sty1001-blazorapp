@@ -1,7 +1,10 @@
 ﻿<Properties StartupConfiguration="{78A7D713-3E48-459C-AF83-1032870B83CB}|Default" GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CoffeeShopOrderingSystem/Index.cshtml">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoffeeShopOrderingSystem/Pages/AddItem.razor">
     <Files>
       <File FileName="CoffeeShopOrderingSystem/Program.cs" Line="1" Column="1" />
       <File FileName="CoffeeShopOrderingSystem/App.razor" Line="1" Column="1" />
@@ -9,33 +12,33 @@
       <File FileName="CoffeeShopOrderingSystem/Pages/FetchData.razor" Line="1" Column="1" />
       <File FileName="CoffeeShopOrderingSystem/Pages/_Host.cshtml" Line="1" Column="1" />
       <File FileName="CoffeeShopOrderingSystem/Pages/Counter.razor" Line="3" Column="19" />
-      <File FileName="CoffeeShopOrderingSystem/Pages/Menu.razor" Line="28" Column="1" />
-      <File FileName="CoffeeShopOrderingSystem/Shared/NavMenu.razor" Line="25" Column="23" />
-      <File FileName="CoffeeShopOrderingSystem/wwwroot/css/site.css" Line="14" Column="19" />
-      <File FileName="CoffeeShopOrderingSystem/Pages/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="CoffeeShopOrderingSystem/Pages/Menu.razor" Line="11" Column="118" />
+      <File FileName="CoffeeShopOrderingSystem/Shared/NavMenu.razor" Line="31" Column="15" />
+      <File FileName="CoffeeShopOrderingSystem/wwwroot/css/site.css" Line="24" Column="19" />
+      <File FileName="CoffeeShopOrderingSystem/Pages/_Layout.cshtml" Line="17" Column="111" />
       <File FileName="CoffeeShopOrderingSystem/Index.cshtml" Line="5" Column="1" />
+      <File FileName="CoffeeShopOrderingSystem/Shared/MainLayout.razor.css" Line="20" Column="19" />
+      <File FileName="CoffeeShopOrderingSystem/Shared/MainLayout.razor" Line="15" Column="23" />
+      <File FileName="CoffeeShopOrderingSystem/Pages/ItemDetail.razor" />
+      <File FileName="CoffeeShopOrderingSystem/Shared/NavMenu.razor.css" Line="45" Column="31" />
+      <File FileName="CoffeeShopOrderingSystem/Pages/ItemDetail.razor.css" Line="5" Column="1" />
+      <File FileName="CoffeeShopOrderingSystem/wwwroot/css/bootstrap/bootstrap.min.css" Line="6" Column="56476" />
+      <File FileName="CoffeeShopOrderingSystem/Pages/Cart.razor" Line="25" Column="15" />
+      <File FileName="CoffeeShopOrderingSystem/Pages/AddItem.razor" Line="15" Column="31" />
+      <File FileName="CoffeeShopOrderingSystem/Models/Item.cs" Line="6" Column="30" />
+      <File FileName="CoffeeShopOrderingSystem/Data/CoffeeOrderingDAL.cs" Line="22" Column="10" />
+      <File FileName="CoffeeShopOrderingSystem/Models/cambriancoffeeshopContext.cs" Line="25" Column="10" />
+      <File FileName="CoffeeShopOrderingSystem/Pages/AddItemBase.cs" Line="12" Column="25" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CoffeeShopOrderingSystem" expanded="True">
             <Node name="CoffeeShopOrderingSystem" expanded="True">
-              <Node name="Pages" expanded="True">
-                <Node name="Error.cshtml" expanded="True" />
-              </Node>
-              <Node name="Shared" expanded="True">
-                <Node name="MainLayout.razor" expanded="True" />
-                <Node name="NavMenu.razor" expanded="True" />
-              </Node>
-              <Node name="wwwroot" expanded="True">
-                <Node name="css" expanded="True">
-                  <Node name="bootstrap" expanded="True" />
-                  <Node name="open-iconic" expanded="True" />
-                </Node>
-                <Node name="images" expanded="True" />
-              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True" />
               <Node name="appsettings.json" expanded="True" />
-              <Node name="Index.cshtml" selected="True" />
             </Node>
           </Node>
         </State>
@@ -46,6 +49,5 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.CoffeeShopOrderingSystem PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MultiItemStartupConfigurations />
 </Properties>
