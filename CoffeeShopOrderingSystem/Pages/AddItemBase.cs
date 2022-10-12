@@ -29,6 +29,24 @@ namespace AddItemBase
                 dal.saveItems(Item);
             }
         }
+
+        public List<Item> GetItems()
+        {
+            using(CoffeeOrderingDAL dal = new CoffeeOrderingDAL())
+            {
+                List<Item> items = dal.getItems();
+                return items;
+            }
+        }
+
+        public Item GetItemByID(int id)
+        {
+            using (CoffeeOrderingDAL dal = new CoffeeOrderingDAL())
+            {
+                Item item = dal.getItemByID(id);
+                return item;
+            }
+        }
     }
 }
 

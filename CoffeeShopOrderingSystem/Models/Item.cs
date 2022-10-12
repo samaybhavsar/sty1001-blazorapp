@@ -10,5 +10,6 @@ namespace CoffeeShopOrderingSystem.Models
         public decimal? ItemPrice { get; set; }
         public int? ItemCalories { get; set; }
         public string? ItemDescription { get; set; }
+        public string? ItemImage { get; set; }
     }
 }

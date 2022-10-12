@@ -18,6 +18,25 @@ namespace CoffeeShopOrderingSystem.Data
                 ctx.SaveChanges();
             }      
         }
+
+        public List<Item> getItems()
+        {
+            using (cambriancoffeeshopContext ctx = new cambriancoffeeshopContext())
+            {
+                return ctx.Items.ToList();
+            }    
+        }
+
+        public Item getItemByID(int id)
+        {
+            using (cambriancoffeeshopContext ctx = new cambriancoffeeshopContext())
+            {
+                return ctx.Items.Where(item => item.ItemId == id).First();
+
+            }
+
+        }
+
         public CoffeeOrderingDAL()
         {
         }

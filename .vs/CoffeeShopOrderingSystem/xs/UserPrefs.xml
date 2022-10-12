@@ -1,34 +1,27 @@
 ﻿<Properties StartupConfiguration="{78A7D713-3E48-459C-AF83-1032870B83CB}|Default" GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="CoffeeShopOrderingSystem/Pages/AddItem.razor">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoffeeShopOrderingSystem/Pages/Menu.razor.css">
     <Files>
       <File FileName="CoffeeShopOrderingSystem/Program.cs" Line="1" Column="1" />
-      <File FileName="CoffeeShopOrderingSystem/App.razor" Line="1" Column="1" />
       <File FileName="CoffeeShopOrderingSystem/Pages/Index.razor" Line="9" Column="1" />
       <File FileName="CoffeeShopOrderingSystem/Pages/FetchData.razor" Line="1" Column="1" />
       <File FileName="CoffeeShopOrderingSystem/Pages/_Host.cshtml" Line="1" Column="1" />
       <File FileName="CoffeeShopOrderingSystem/Pages/Counter.razor" Line="3" Column="19" />
-      <File FileName="CoffeeShopOrderingSystem/Pages/Menu.razor" Line="11" Column="118" />
+      <File FileName="CoffeeShopOrderingSystem/Pages/Menu.razor" Line="17" Column="51" />
       <File FileName="CoffeeShopOrderingSystem/Shared/NavMenu.razor" Line="31" Column="15" />
       <File FileName="CoffeeShopOrderingSystem/wwwroot/css/site.css" Line="24" Column="19" />
       <File FileName="CoffeeShopOrderingSystem/Pages/_Layout.cshtml" Line="17" Column="111" />
       <File FileName="CoffeeShopOrderingSystem/Index.cshtml" Line="5" Column="1" />
       <File FileName="CoffeeShopOrderingSystem/Shared/MainLayout.razor.css" Line="20" Column="19" />
       <File FileName="CoffeeShopOrderingSystem/Shared/MainLayout.razor" Line="15" Column="23" />
-      <File FileName="CoffeeShopOrderingSystem/Pages/ItemDetail.razor" />
       <File FileName="CoffeeShopOrderingSystem/Shared/NavMenu.razor.css" Line="45" Column="31" />
       <File FileName="CoffeeShopOrderingSystem/Pages/ItemDetail.razor.css" Line="5" Column="1" />
       <File FileName="CoffeeShopOrderingSystem/wwwroot/css/bootstrap/bootstrap.min.css" Line="6" Column="56476" />
-      <File FileName="CoffeeShopOrderingSystem/Pages/Cart.razor" Line="25" Column="15" />
-      <File FileName="CoffeeShopOrderingSystem/Pages/AddItem.razor" Line="15" Column="31" />
-      <File FileName="CoffeeShopOrderingSystem/Models/Item.cs" Line="6" Column="30" />
-      <File FileName="CoffeeShopOrderingSystem/Data/CoffeeOrderingDAL.cs" Line="22" Column="10" />
-      <File FileName="CoffeeShopOrderingSystem/Models/cambriancoffeeshopContext.cs" Line="25" Column="10" />
-      <File FileName="CoffeeShopOrderingSystem/Pages/AddItemBase.cs" Line="12" Column="25" />
+      <File FileName="CoffeeShopOrderingSystem/Pages/AddItem.razor" Line="4" Column="1" />
+      <File FileName="CoffeeShopOrderingSystem/Data/CoffeeOrderingDAL.cs" Line="34" Column="75" />
+      <File FileName="CoffeeShopOrderingSystem/Pages/Cart.razor" Line="1" Column="1" />
+      <File FileName="CoffeeShopOrderingSystem/Pages/Menu.razor.css" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -37,7 +30,15 @@
             <Node name="CoffeeShopOrderingSystem" expanded="True">
               <Node name="Data" expanded="True" />
               <Node name="Models" expanded="True" />
-              <Node name="Pages" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Menu.razor" expanded="True">
+                  <Node name="Menu.razor.css" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="images" expanded="True" />
+              </Node>
               <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
@@ -48,6 +49,12 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/Data/CoffeeOrderingDAL.cs" relfile="CoffeeShopOrderingSystem/Data/CoffeeOrderingDAL.cs" line="14" column="1" />
+      <Breakpoint enabled="false" file="/Users/samaybhavsar/Projects/CoffeeShopOrderingSystem/CoffeeShopOrderingSystem/Data/CoffeeOrderingDAL.cs" relfile="CoffeeShopOrderingSystem/Data/CoffeeOrderingDAL.cs" line="18" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.CoffeeShopOrderingSystem PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MultiItemStartupConfigurations />
 </Properties>
